@@ -1,2 +1,4 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# dsci-100-project_33
+Name: Egshiglen Erdembayar
+Student number: 46339032
+Group: 33
